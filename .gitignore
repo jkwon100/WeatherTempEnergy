@@ -1,0 +1,9 @@
+# Ignore raw data folders
+energyData/
+temperatureData/
+
+# Optional: also ignore Jupyter checkpoints and big files
+.ipynb_checkpoints/
+*.parquet
+*.bak
+*.tmp

@@ -1,6 +1,7 @@
 # Ignore raw data folders
 energyData/
 temperatureData/
+pjm_comparison.ipynb
 
 # Optional: also ignore Jupyter checkpoints and big files
 .ipynb_checkpoints/

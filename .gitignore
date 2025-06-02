@@ -2,6 +2,7 @@
 energyData/
 temperatureData/
 pjm_comparison.ipynb
+energy_prediction_models.ipynb
 
 # Optional: also ignore Jupyter checkpoints and big files
 .ipynb_checkpoints/
